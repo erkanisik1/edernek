@@ -55,9 +55,9 @@
     [
         'driver'      => 'mysqli',
         'host'        => 'localhost',
-        'database'    => 'deneme',
-        'user'        => '',
-        'password'    => '',
+        'database'    => 'edernek',
+        'user'        => 'root',
+        'password'    => '12345678',
         'port'        => '',
         'dsn'         => '',
         'server'      => '',
